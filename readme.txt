@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Test for remote http.
 Remote modification test
 Merge1 test
+Test merge, change of remote
